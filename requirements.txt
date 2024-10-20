@@ -1,0 +1,7 @@
+PyPDF2
+pdfplumber
+pytesseract
+pandas
+pytz
+llama-extractor
+pydantic
