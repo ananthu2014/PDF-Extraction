@@ -1,0 +1,28 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-136",
+    "Invoice_Date": "15 Feb 2024",
+    "Due_Date": "04 Mar 2024",
+    "Customer_Name": "Rishabh Ramola",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Solasafe sunscreen gel spf 50",
+            "Rate_per_Item": 480.68,
+            "Quantity": 2,
+            "Taxable_Value": 961.36,
+            "Tax_Amount": 173.04,
+            "Total_Amount": 1134.4
+        }
+    ],
+    "Taxable_Amount": 961.36,
+    "Total_Amount": 1134.0,
+    "Total_Discount": 283.6,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

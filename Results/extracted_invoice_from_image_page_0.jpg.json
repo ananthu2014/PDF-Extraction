@@ -1,0 +1,24 @@
+{
+    "Company": "",
+    "Company_GSTIN": "23AADCU2395N1ZY",
+    "Company_Address": "C/o KARUNA GUPTA KURELE, 1st Floor\n\nS.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol\nShahdol, MADHYA PRADESH, 484001",
+    "Company_Mobile": "91 8585960963",
+    "Company_Email": "ruhi@dermagq.in",
+    "Invoice Number": "INV-117",
+    "Invoice Date": "01 Feb 2024",
+    "Due Date": "29 Jan 2024",
+    "Customer_Name": null,
+    "Customer_Phone": null,
+    "Customer_Shipping/Billing Address": null,
+    "Place of Supply": "23-MADHYA PRADESH\n\n",
+    "Items": [],
+    "Taxable_Amount": null,
+    "Total_Amount": null,
+    "Total_Discount": null,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": null
+}

@@ -1,0 +1,28 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-150",
+    "Invoice_Date": "22 Mar 2024",
+    "Due_Date": "01 Apr 2024",
+    "Customer_Name": "Bhusan Naresh",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Ahaglow Advanced Skin Rejuvenating Face Wash Gel - 100 gm",
+            "Rate_per_Item": 394.51,
+            "Quantity": 1,
+            "Taxable_Value": 394.51,
+            "Tax_Amount": 71.01,
+            "Total_Amount": 465.52
+        }
+    ],
+    "Taxable_Amount": 394.51,
+    "Total_Amount": 466.0,
+    "Total_Discount": 63.48,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

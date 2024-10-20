@@ -1,0 +1,46 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-138",
+    "Invoice_Date": "06 Mar 2024",
+    "Due_Date": "06 Mar 2024",
+    "Customer_Name": "Agrani Kandele",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Cetaphil Gentle Cleansing Lotion - Oily Skin 125 ml",
+            "Rate_per_Item": 415.68,
+            "Quantity": 1,
+            "Taxable_Value": 415.68,
+            "Tax_Amount": 74.82,
+            "Total_Amount": 490.5
+        },
+        {
+            "Item_Number": "2",
+            "Item_Name": "Solasafe sunscreen gel spf 50",
+            "Rate_per_Item": 480.68,
+            "Quantity": 1,
+            "Taxable_Value": 480.68,
+            "Tax_Amount": 86.52,
+            "Total_Amount": 567.2
+        },
+        {
+            "Item_Number": "3",
+            "Item_Name": "IPCA Acne OC Moisturizer Cream - 75 gm",
+            "Rate_per_Item": 378.98,
+            "Quantity": 1,
+            "Taxable_Value": 378.98,
+            "Tax_Amount": 68.22,
+            "Total_Amount": 447.2
+        }
+    ],
+    "Taxable_Amount": 1275.34,
+    "Total_Amount": 1505.0,
+    "Total_Discount": 308.1,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

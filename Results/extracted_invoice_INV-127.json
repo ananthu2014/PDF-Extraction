@@ -1,0 +1,46 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-127",
+    "Invoice_Date": "23 Feb 2024",
+    "Due_Date": "23 Feb 2024",
+    "Customer_Name": "Avik Mallick",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Vitamin b12 test",
+            "Rate_per_Item": 397.5,
+            "Quantity": 1,
+            "Taxable_Value": 397.5,
+            "Tax_Amount": 0.0,
+            "Total_Amount": 397.5
+        },
+        {
+            "Item_Number": "2",
+            "Item_Name": "HBA1C Test",
+            "Rate_per_Item": 349.27,
+            "Quantity": 1,
+            "Taxable_Value": 349.27,
+            "Tax_Amount": 0.0,
+            "Total_Amount": 349.27
+        },
+        {
+            "Item_Number": "3",
+            "Item_Name": "Last bill pending",
+            "Rate_per_Item": 197.0,
+            "Quantity": 1,
+            "Taxable_Value": 197.0,
+            "Tax_Amount": 0.0,
+            "Total_Amount": 197.0
+        }
+    ],
+    "Taxable_Amount": 943.77,
+    "Total_Amount": 944.0,
+    "Total_Discount": 662.23,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

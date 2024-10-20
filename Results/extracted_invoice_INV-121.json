@@ -1,0 +1,37 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-121",
+    "Invoice_Date": "29 Jan 2024",
+    "Due_Date": "29 Jan 2024",
+    "Customer_Name": "Jitesh Soni",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Acne-UV Gel - spf 50 (50 gm)",
+            "Rate_per_Item": 581.57,
+            "Quantity": 1,
+            "Taxable_Value": 581.57,
+            "Tax_Amount": 104.68,
+            "Total_Amount": 686.25
+        },
+        {
+            "Item_Number": "2",
+            "Item_Name": "Arachitol Nano (60k) 4*5ml",
+            "Rate_per_Item": 289.36,
+            "Quantity": 1,
+            "Taxable_Value": 289.36,
+            "Tax_Amount": 34.72,
+            "Total_Amount": 324.09
+        }
+    ],
+    "Taxable_Amount": 870.93,
+    "Total_Amount": 1010.0,
+    "Total_Discount": 285.94,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

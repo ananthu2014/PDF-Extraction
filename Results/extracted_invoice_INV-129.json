@@ -1,0 +1,37 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-129",
+    "Invoice_Date": "23 Feb 2024",
+    "Due_Date": "23 Feb 2024",
+    "Customer_Name": "Divya Suhane",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "sotret nf 16 mg - 10 capsules",
+            "Rate_per_Item": 282.86,
+            "Quantity": 3,
+            "Taxable_Value": 848.57,
+            "Tax_Amount": 101.83,
+            "Total_Amount": 950.4
+        },
+        {
+            "Item_Number": "2",
+            "Item_Name": "Ekran Aqua Sunscreen Spf 30",
+            "Rate_per_Item": 268.47,
+            "Quantity": 1,
+            "Taxable_Value": 268.47,
+            "Tax_Amount": 48.33,
+            "Total_Amount": 316.8
+        }
+    ],
+    "Taxable_Amount": 1117.05,
+    "Total_Amount": 1267.0,
+    "Total_Discount": 172.8,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

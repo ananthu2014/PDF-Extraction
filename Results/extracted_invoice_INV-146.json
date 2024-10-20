@@ -1,0 +1,64 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-146",
+    "Invoice_Date": "29 Mar 2024",
+    "Due_Date": "29 Mar 2024",
+    "Customer_Name": "Abhikaran Jalonha",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Cetaphil DAM Advance Ultra-Hydrating Lotion Face - 100 gm",
+            "Rate_per_Item": 395.08,
+            "Quantity": 1,
+            "Taxable_Value": 395.08,
+            "Tax_Amount": 71.12,
+            "Total_Amount": 466.2
+        },
+        {
+            "Item_Number": "2",
+            "Item_Name": "Ahaglow Advanced Skin Rejuvenating Face Wash Gel",
+            "Rate_per_Item": 556.34,
+            "Quantity": 1,
+            "Taxable_Value": 556.34,
+            "Tax_Amount": 100.14,
+            "Total_Amount": 656.48
+        },
+        {
+            "Item_Number": "3",
+            "Item_Name": "Acutret 20 mg - 10 capsules",
+            "Rate_per_Item": 206.43,
+            "Quantity": 6,
+            "Taxable_Value": 1238.57,
+            "Tax_Amount": 148.63,
+            "Total_Amount": 1387.2
+        },
+        {
+            "Item_Number": "4",
+            "Item_Name": "Faireye under eye cream",
+            "Rate_per_Item": 695.8,
+            "Quantity": 1,
+            "Taxable_Value": 695.8,
+            "Tax_Amount": 125.24,
+            "Total_Amount": 821.04
+        },
+        {
+            "Item_Number": "5",
+            "Item_Name": "Biluma cream - 15 gm",
+            "Rate_per_Item": 462.37,
+            "Quantity": 1,
+            "Taxable_Value": 462.37,
+            "Tax_Amount": 83.23,
+            "Total_Amount": 545.6
+        }
+    ],
+    "Taxable_Amount": 3348.16,
+    "Total_Amount": 3877.0,
+    "Total_Discount": 674.48,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

@@ -1,0 +1,64 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Invoice_Number": "INV-147",
+    "Invoice_Date": "29 Mar 2024",
+    "Due_Date": "29 Mar 2024",
+    "Customer_Name": "Divya Suhane",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Solasafe sunscreen gel spf 50",
+            "Rate_per_Item": 450.64,
+            "Quantity": 1,
+            "Taxable_Value": 450.64,
+            "Tax_Amount": 81.11,
+            "Total_Amount": 531.75
+        },
+        {
+            "Item_Number": "2",
+            "Item_Name": "Trapic 500 TA - 10",
+            "Rate_per_Item": 163.09,
+            "Quantity": 3,
+            "Taxable_Value": 489.28,
+            "Tax_Amount": 24.46,
+            "Total_Amount": 513.74
+        },
+        {
+            "Item_Number": "3",
+            "Item_Name": "Depiwhite Advanced Cream - 15 ml",
+            "Rate_per_Item": 495.93,
+            "Quantity": 1,
+            "Taxable_Value": 495.93,
+            "Tax_Amount": 89.27,
+            "Total_Amount": 585.2
+        },
+        {
+            "Item_Number": "4",
+            "Item_Name": "Fixderma Shadow SPF 50+ Cream",
+            "Rate_per_Item": 410.17,
+            "Quantity": 1,
+            "Taxable_Value": 410.17,
+            "Tax_Amount": 73.83,
+            "Total_Amount": 484.0
+        },
+        {
+            "Item_Number": "5",
+            "Item_Name": "Sortet F 16 mg - 10 cap",
+            "Rate_per_Item": 316.8,
+            "Quantity": 6,
+            "Taxable_Value": 1900.8,
+            "Tax_Amount": 0.0,
+            "Total_Amount": 1900.8
+        }
+    ],
+    "Taxable_Amount": 3746.82,
+    "Total_Amount": 4015.0,
+    "Total_Discount": 652.31,
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}
