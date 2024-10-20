@@ -8,6 +8,7 @@ This project provides a tool to extract invoice details from PDF and image files
 - Uses `pytesseract` for OCR to extract text from images.
 - Utilizes `LlamaExtract` to extract structured data from PDFs.
 - Regular expressions are used to parse the extracted text for relevant invoice details.
+- Also, you can choose whether to run using Llama or not by specifying in the arguments. If not needed, it will use pyPDF2 to perform this action.
 
 ## Dependencies
 
