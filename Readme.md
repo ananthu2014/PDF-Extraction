@@ -27,3 +27,4 @@ pip install -r requirements.txt
 The result for image extraction can be found here: https://github.com/ananthu2014/PDF-Extraction/blob/main/Results/extracted_invoice_from_image_page_0.jpg.json  
 All the results are given in the Results folder  
 For further clarity, please check the project report.  
+pdf_ext.ipynb is the work-space to show the progress.  
