@@ -31,8 +31,10 @@ For further clarity, please check the project report.
 pdf_ext.ipynb is the work-space to show the progress.  
 model.ipynb is the main file.  
 sample.py is the file which also uses PyMuPDF Library to extract images inside the PDFs to parse that information as well, but the code is not tested and debugged properly.  
-To run the code:  Open the command-line:  
-git clone github.com/ananthu2014/PDF_Extraction/  
+To run the code:  
+  
+Open the command-line:    
+git clone github.com/ananthu2014/PDF_Extraction/    
 conda create --name env name  
 pip install -r requirements.text  
 python model.py --pdf_dir 'pdf_dir' --save_dir 'save_dir' --use_llama   
