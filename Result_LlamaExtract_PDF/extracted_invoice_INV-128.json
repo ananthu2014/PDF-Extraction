@@ -1,0 +1,35 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Company_Address": "C/o KARUNA GUPTA KURELE, 1st Floor S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol Shahdol, MADHYA PRADESH, 484001",
+    "Company_Phone": "+91 8585960963",
+    "Company_email": "ruhi@dermaq.in",
+    "Invoice_Number": "INV-128",
+    "Invoice_Date": "23 Feb 2024",
+    "Due_Date": "23 Feb 2024",
+    "Customer_Name": "Atia Latif",
+    "Customer_Phone": null,
+    "Shipping_address": null,
+    "Place_of_supply": "23-MADHYA PRADESH",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Hydrafacial",
+            "Rate_per_Item": 2542.37,
+            "Quantity": 1,
+            "Taxable_Value": 2076.27,
+            "Tax_Amount": 373.73,
+            "Total_Amount": 2450.0
+        }
+    ],
+    "Taxable_Amount": 2076.27,
+    "Total_Amount": 2450.0,
+    "Total_Discount": 550.0,
+    "Total_amount_in_words": "INR Two Thousand, Four Hundred And Fifty Rupees Only.",
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

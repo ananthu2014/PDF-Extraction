@@ -1,0 +1,44 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Company_Address": "C/o KARUNA GUPTA KURELE, 1st Floor S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol Shahdol, MADHYA PRADESH, 484001",
+    "Company_Phone": "+91 8585960963",
+    "Company_email": "ruhi@dermaq.in",
+    "Invoice_Number": "INV-145",
+    "Invoice_Date": "28 Mar 2024",
+    "Due_Date": "28 Mar 2024",
+    "Customer_Name": "Indraja Mohite",
+    "Customer_Phone": "",
+    "Shipping_address": "",
+    "Place_of_supply": "23-MADHYA PRADESH",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Acutret 20 mg - 10 capsules",
+            "Rate_per_Item": 206.43,
+            "Quantity": 9,
+            "Taxable_Value": 1857.86,
+            "Tax_Amount": 222.94,
+            "Total_Amount": 2080.8
+        },
+        {
+            "Item_Number": "2",
+            "Item_Name": "due last bill",
+            "Rate_per_Item": 60.0,
+            "Quantity": 1,
+            "Taxable_Value": 60.0,
+            "Tax_Amount": 0.0,
+            "Total_Amount": 60.0
+        }
+    ],
+    "Taxable_Amount": 1917.86,
+    "Total_Amount": 2141.0,
+    "Total_Discount": 520.2,
+    "Total_amount_in_words": "INR Two Thousand, One Hundred And Forty-One Rupees Only.",
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}

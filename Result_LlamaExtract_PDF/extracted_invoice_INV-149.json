@@ -1,0 +1,35 @@
+{
+    "Company_Name": "UNCUE DERMACARE PRIVATE LIMITED",
+    "GSTIN": "23AADCU2395N1ZY",
+    "Company_Address": "C/o KARUNA GUPTA KURELE, 1st Floor S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol Shahdol, MADHYA PRADESH, 484001",
+    "Company_Phone": "+91 8585960963",
+    "Company_email": "ruhi@dermaq.in",
+    "Invoice_Number": "INV-149",
+    "Invoice_Date": "22 Mar 2024",
+    "Due_Date": "01 Apr 2024",
+    "Customer_Name": "Karishma Bande",
+    "Customer_Phone": "8956804380",
+    "Shipping_address": "C/o KARUNA GUPTA KURELE, 1st Floor S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol Shahdol, MADHYA PRADESH, 484001",
+    "Place_of_supply": "23-MADHYA PRADESH",
+    "Items": [
+        {
+            "Item_Number": "1",
+            "Item_Name": "Excela Moisturiser - 50 gm",
+            "Rate_per_Item": 370.64,
+            "Quantity": 1,
+            "Taxable_Value": 370.64,
+            "Tax_Amount": 66.72,
+            "Total_Amount": 437.36
+        }
+    ],
+    "Taxable_Amount": 370.64,
+    "Total_Amount": 437.0,
+    "Total_Discount": 59.64,
+    "Total_amount_in_words": "INR Four Hundred And Thirty-Seven Rupees Only.",
+    "Payment_Details": {
+        "Bank": "Kotak Mahindra Bank",
+        "Account_Number": "1146860541",
+        "IFSC_Code": "kkbk0000725"
+    },
+    "Authorized_Signatory": "UnCue Dermacare Pvt Ltd"
+}
