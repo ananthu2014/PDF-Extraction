@@ -6,7 +6,8 @@ This project provides a tool to extract invoice details from PDF and image files
 
 - Extracts text from PDF and image files.
 - Uses `pytesseract` for OCR to extract text from images.
-- Utilizes `LlamaExtract` to extract structured data from PDFs.
+- Utilizes `LlamaExtract` to extract data from PDFs.
+- Utilizes 'PyPDF' coupled with Regular-Expression parser to extract data from PDfs faster, but Llama-Extract is the most accurate soltuion.  
 - Regular expressions are used to parse the extracted text for relevant invoice details.
 - Also, you can choose whether to run using Llama or not by specifying in the arguments. If not needed, it will use pyPDF2 to perform this action.
 
@@ -24,7 +25,8 @@ You can install the required packages using:
 
 pip install -r requirements.txt
 
-The result for image extraction can be found here: https://github.com/ananthu2014/PDF-Extraction/blob/main/Results/extracted_invoice_from_image_page_0.jpg.json  
-All the results are given in the Results folder  
+The result for image extraction can be found too, where the PDFs are converted to images for the purpose of writing the code and testing accordingly.  
+All the results are given in the three Results folder.    
 For further clarity, please check the project report.  
 pdf_ext.ipynb is the work-space to show the progress.  
+model.ipynb is the main file.  
