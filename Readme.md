@@ -30,3 +30,4 @@ All the results are given in the three Results folder.
 For further clarity, please check the project report.  
 pdf_ext.ipynb is the work-space to show the progress.  
 model.ipynb is the main file.  
+sample.py is the file which also uses PyMuPDF Library to extract images inside the PDFs to parse that information as well, but the code is not tested and debugged properly.  
